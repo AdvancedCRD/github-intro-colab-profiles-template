@@ -5,7 +5,7 @@ def print_intros():
     print("Name: Dr. Sharon Mistretta")
     print("Role: Computer Science Educator")
     print("Favorite Programming Language: Python")
-    print("GitHub Goal: Help teachers model authentic dev workflows")
+    print("GitHub Goal: Help teachers model authentic dev workflows.")
     print("-" * 40)
 
     # ---------- Student section begins here ----------
