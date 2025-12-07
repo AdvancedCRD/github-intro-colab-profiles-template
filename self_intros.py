@@ -2,7 +2,7 @@ def print_intros():
     print("=== Community Introductions ===\n")
 
     # ---------- Instructor example (do not edit) ----------
-    print("Name: Dr. Example")
+    print("Name: Dr. Sharon Mistretta")
     print("Role: Computer Science Educator")
     print("Favorite Programming Language: Python")
     print("GitHub Goal: Help teachers model authentic dev workflows")
